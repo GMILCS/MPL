@@ -1,8 +1,7 @@
 {
     "label": "New Fiction",
     "description": "New Fiction at MPL",
-    "ISBNS": 
-  [
+    "isbns": [
 {
 "9781250271372",
 "9780593440575",
